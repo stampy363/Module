@@ -1,0 +1,3 @@
+C:\Users\student\Documents\205 даааааа\dno\dno\x64\Debug\dno.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\205 даааааа\dno\dno\x64\Debug\dno.MyForm.resources
+C:\Users\student\Documents\205 даааааа\dno\dno\x64\Debug\dno.vcxproj.GenerateResource.cache

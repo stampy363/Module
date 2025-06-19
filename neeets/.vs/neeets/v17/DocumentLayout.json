@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF1B337-0541-4364-B41D-79AEE557B9BD}|neeets\\neeets.vcxproj|C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{5CF1B337-0541-4364-B41D-79AEE557B9BD}|neeets\\neeets.vcxproj|solutionrelative:neeets\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF1B337-0541-4364-B41D-79AEE557B9BD}|neeets\\neeets.vcxproj|C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF1B337-0541-4364-B41D-79AEE557B9BD}|neeets\\neeets.vcxproj|solutionrelative:neeets\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF1B337-0541-4364-B41D-79AEE557B9BD}|neeets\\neeets.vcxproj|C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF1B337-0541-4364-B41D-79AEE557B9BD}|neeets\\neeets.vcxproj|solutionrelative:neeets\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.h",
+              "RelativeDocumentMoniker": "neeets\\MyForm.h",
+              "ToolTip": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "neeets\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T09:51:42.959Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.cpp",
+              "RelativeDocumentMoniker": "neeets\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.cpp",
+              "RelativeToolTip": "neeets\\MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T08:44:20.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.h",
+              "RelativeDocumentMoniker": "neeets\\MyForm.h",
+              "ToolTip": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neeets\\neeets\\MyForm.h",
+              "RelativeToolTip": "neeets\\MyForm.h",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAwwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T08:26:28.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

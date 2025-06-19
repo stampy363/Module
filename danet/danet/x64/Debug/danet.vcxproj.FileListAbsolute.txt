@@ -1,0 +1,3 @@
+C:\Users\student\Documents\205 даааааа\danet\danet\x64\Debug\danet.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\205 даааааа\danet\danet\x64\Debug\danet.MyForm.resources
+C:\Users\student\Documents\205 даааааа\danet\danet\x64\Debug\danet.vcxproj.GenerateResource.cache

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A7A910-1B7F-44E8-9834-6F411321318D}|neet\\neet.vcxproj|C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neet\\neet\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0A7A910-1B7F-44E8-9834-6F411321318D}|neet\\neet.vcxproj|solutionrelative:neet\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A7A910-1B7F-44E8-9834-6F411321318D}|neet\\neet.vcxproj|C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neet\\neet\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{D0A7A910-1B7F-44E8-9834-6F411321318D}|neet\\neet.vcxproj|solutionrelative:neet\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neet\\neet\\MyForm.h",
+              "RelativeDocumentMoniker": "neet\\MyForm.h",
+              "ToolTip": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neet\\neet\\MyForm.h",
+              "RelativeToolTip": "neet\\MyForm.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAlwFcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T06:44:15.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neet\\neet\\MyForm.h",
+              "RelativeDocumentMoniker": "neet\\MyForm.h",
+              "ToolTip": "C:\\Users\\student\\Documents\\205 \u0434\u0430\u0430\u0430\u0430\u0430\u0430\\neet\\neet\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "neet\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T06:42:52.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

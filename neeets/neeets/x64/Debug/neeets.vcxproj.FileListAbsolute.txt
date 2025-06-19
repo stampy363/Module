@@ -1,0 +1,3 @@
+C:\Users\student\Documents\205 даааааа\neeets\neeets\x64\Debug\neeets.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\205 даааааа\neeets\neeets\x64\Debug\neeets.MyForm.resources
+C:\Users\student\Documents\205 даааааа\neeets\neeets\x64\Debug\neeets.vcxproj.GenerateResource.cache
